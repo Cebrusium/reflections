@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	It creates a git repository by adding some hidden files containing meta data about history since creation. New directory .git comes into existence.
+	To create a repository so thati can commit at a later point. which is not possible in diretory.
+
+	
